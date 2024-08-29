@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import os
 
-# Initialize the driver (replace with your chromedriver path if necessary)
-driver_path = 'drivers/chromedriver'  # Update this line with the correct path
+# Initialize the driver
+driver_path = 'drivers/chromedriver' 
 driver = webdriver.Chrome(executable_path=driver_path)
 driver.implicitly_wait(10)  # Wait up to 10 seconds for elements to be present
 
