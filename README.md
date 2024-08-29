@@ -14,7 +14,7 @@
 5. Test results will be available in the `reports` directory as `report.html`.
 
 ## Bugs Found
-- [Describe any bugs or issues encountered during testing]
+Attached in code 
 
 ## Screenshots
 - Screenshots for each step are stored in the `reports` folder.
